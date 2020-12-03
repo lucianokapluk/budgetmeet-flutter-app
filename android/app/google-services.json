@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "816472859026",
+    "firebase_url": "https://budgetmeet-2a6a7.firebaseio.com",
+    "project_id": "budgetmeet-2a6a7",
+    "storage_bucket": "budgetmeet-2a6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816472859026:android:3155a0a06ce444e106214b",
+        "android_client_info": {
+          "package_name": "com.example.budgetmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816472859026-vf6m0gelq7nsj91calmf4p0vtedstcd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budgetmeet",
+            "certificate_hash": "6d34975c6ca4d28b7a47827b8fd23b35c1a422c9"
+          }
+        },
+        {
+          "client_id": "816472859026-b2lb8kru5t2kh2up4v3pbje4qkjuqmls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budgetmeet",
+            "certificate_hash": "68177ed972f3443385ab1a351748cf82f0afb77c"
+          }
+        },
+        {
+          "client_id": "816472859026-eujel9kvs6hfhtd9l8bmv9evqdfjtc5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrL9LIeKVx4629InA5ip1lWqf85kowC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816472859026-eujel9kvs6hfhtd9l8bmv9evqdfjtc5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
